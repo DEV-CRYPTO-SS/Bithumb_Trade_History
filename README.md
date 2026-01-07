@@ -17,8 +17,8 @@
 ### 방법 1: 북마크렛으로 등록 (권장)
 1. 브라우저의 북마크 바에서 우클릭 후 **페이지 추가** 또는 **북마크 추가**를 선택합니다.
 2. 이름은 `빗썸 거래내역` 등으로 설정합니다.
-3. URL(또는 주소) 칸에 `bithumb_trade_export_bookmarklet_v1.1.js` 파일의 내용을 전체 복사하여 붙여넣습니다.
-4. 빗썸 거래내역 페이지에서 해당 북마크를 클릭하면 실행됩니다.
+3. URL(또는 주소) 칸에 [bithumb_trade_export.min.js](bithumb_trade_export.min.js) 파일의 내용을 전체 복사하여 붙여넣습니다.
+4. 빗썸 [거래내역 페이지](https://www.bithumb.com/react/history/trade)에서 해당 북마크를 클릭하면 실행됩니다.
 
 ### 방법 2: 개발자 도구 콘솔 사용
 1. 빗썸 [거래내역 페이지](https://www.bithumb.com/react/history/trade)에 접속합니다.
